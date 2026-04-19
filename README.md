@@ -1,2 +1,2 @@
-# Note_It
+# note_it
 Notes App
